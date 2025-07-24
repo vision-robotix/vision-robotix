@@ -55,8 +55,8 @@ Stay tuned for updates on 🔧 **Robotic Arms**, 🚁 **Drones**, 🌐 **IoT Sys
 
 ## 📱 Socials & Contact
 
-- 🌐 [Instagram (Tech Reels & Projects)](https://instagram.com/)  
-- 📺 [YouTube Channel (Tutorials & Demos)](https://youtube.com/) 
+- 🌐 [Instagram (Tech Reels & Projects)](https://www.instagram.com/vision_robotix/)  
+- 📺 [YouTube Channel (Tutorials & Demos)](https://www.youtube.com/@Vision_robotix) 
 
 ---
 
